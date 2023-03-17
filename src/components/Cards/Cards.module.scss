@@ -1,0 +1,26 @@
+$radius : 30px;
+
+.cards {
+
+// border: 5px solid rgb(18, 212, 212);
+// border-radius: $radius;
+
+border-radius: 50px;
+border: 3px solid rgb(28, 121, 150);
+padding: 10px 15px;
+box-shadow: 6px 15px 15px rgba($color: #e6ff06, $alpha: 1.0);
+
+}
+
+.img {
+    border-radius: $radius $radius 0 0px;
+    
+
+}
+
+.badge {
+    top: 20px;
+    right: 45px;
+    font-size: 16px;
+
+}
