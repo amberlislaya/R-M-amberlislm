@@ -19,7 +19,7 @@ updateFetchedData(data);
 
   return (
 <div className='container d-flex justify-content-center'>
-<div className='d-flex flex-column gap-3'>
+<div className='d-flex btn btn-dark flex-column gap-3'>
 <h1 className='text-center'>{name}</h1>
 <img src={image} alt="" className='img-fluid'/>
 
