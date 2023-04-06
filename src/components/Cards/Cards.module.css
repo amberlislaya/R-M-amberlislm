@@ -1,0 +1,22 @@
+
+
+.cards {
+border-radius: 40px;
+border: 5px solid rgb(28, 121, 150);
+padding: 10px 15px;
+box-shadow: 6px 15px 15px #edce;
+transition-duration: 0.5s;
+}
+
+.img {
+    border-radius: 5px 5px 5px 5px;
+    
+
+}
+
+.badge {
+    top: 20px;
+    right: 45px;
+    font-size: 16px;
+
+}
