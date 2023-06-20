@@ -22,11 +22,11 @@ className="col-lg-4 col-md-6 col-12 mb-4 position-relative text-info">
 className ={`${styles.img} img-fluid`} />
 
 <div style = {{ padding: "10px" }} className='content'>
-<div className="fs-4 fw-bold mb-4 ">{name}</div>
+<div className="fs-3 fw-bold mb-4 ">{name}</div>
 
 <div className=''>
 <div className='fs-5'>Last location</div>
-<div className='fs-4'>{location.name}</div>
+<div className='fs-6'>{location.name}</div>
 </div>
 </div>
 </div>
